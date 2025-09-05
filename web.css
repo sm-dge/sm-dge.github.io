@@ -1,1 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Arial";
+}
 
+button {
+  font-family: "Arial";
+  background-color: white;
+  color: black;
+}
+
+a:link {
+  color: #07A3FD;
+}
+a:visited {
+  color: #C80AFE;
+}
