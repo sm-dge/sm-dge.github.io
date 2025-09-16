@@ -16,3 +16,8 @@ a:link {
 a:visited {
   color: #C80AFE;
 }
+
+.light-mode {
+  background-color: black;
+  color: white;
+}
