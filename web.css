@@ -1,6 +1,6 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   font-family: "Arial";
 }
 
@@ -10,7 +10,13 @@ button {
   color: black;
 }
 
-.light-mode {
-  background-color: white;
-  color: black;
+.dark-mode {
+  background-color: black;
+  color: white;
+  a:link {
+  color: #07A3FD;
+  }
+  a:visited {
+  color: #C80AFE;
+  }
 }
