@@ -36,7 +36,13 @@
     </ol><br>
     
     <a href="https://github.com/sm-dge" target="_blank">
-      <img src="github_logo_light.png" width="100" height ="100" title="My GitHub profile">
+      <script>
+        if document.getElementById("darkToggle").disabled {
+          <img src="github_logo_light.png" width="100" height ="100" title="My GitHub profile">
+        } else {
+          <img src="github_logo_dark.png" width="100" height ="100" title="My GitHub profile">
+        }  
+      </script>
     </a>
     
   </body>
