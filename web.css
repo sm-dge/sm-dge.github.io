@@ -34,7 +34,7 @@ button {
   color: #C80AFE;
   }
   .myDiv {
-    border: 5px ridge white;
+    border: 5px solid white;
     background-color: black;    
   }
 }
