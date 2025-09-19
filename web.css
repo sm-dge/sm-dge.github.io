@@ -10,6 +10,16 @@ button {
   color: black;
 }
 
+.myDiv {
+  border: 5px ridge black;
+  background-color: white;    
+  text-align: center;
+  list-style-position: inside;
+  margin: auto;
+  margin-top: 100px;
+  width: 75%;
+}
+
 .dark-mode {
   background-color: black;
   color: white;
@@ -19,14 +29,8 @@ button {
   a:visited {
   color: #C80AFE;
   }
-}
-
-.myDiv {
-  border: 5px ridge black;
-  background-color: white;    
-  text-align: center;
-  list-style-position: inside;
-  margin: auto;
-  margin-top: 100px;
-  width: 75%;
+  .myDiv {
+    border: 5px ridge white;
+    background-color: black;    
+  }
 }
