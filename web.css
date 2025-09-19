@@ -23,6 +23,10 @@ button {
 .dark-mode {
   background-color: black;
   color: white;
+  button {
+    background-color: black;
+    color: white;
+  }
   a:link {
   color: #07A3FD;
   }
